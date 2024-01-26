@@ -16,6 +16,7 @@
     <a href="https://parade358.github.io">
         <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
+ 
  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://parade358.github.io/)
 </div><br>
 
@@ -24,7 +25,6 @@
     <a href="mailto:parade358@naver.com">
       <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
-    
     <a href="https://www.instagram.com/yxsxxng">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
@@ -64,12 +64,12 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
 </div>
 
 
 ### Development Tools
 <div>
+    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse%20STS-6DB33F?style=for-the-badge&logo=Eclipse&logoColor=white"> 
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
 </div>
