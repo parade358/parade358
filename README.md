@@ -52,7 +52,8 @@
 
 ### Database
 <div>
-    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white">
+    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
 
 ### Server
