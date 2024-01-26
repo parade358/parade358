@@ -12,8 +12,9 @@
 <br>
 
 ## 😃 Contact 😃
-<div style="display:flex; flex-direction:row;">
     <a href="https://bit.ly/parade358" target="_blank" style="border: 1px solid #000000; border-radius: 5px; padding: 5px;">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF">
+    </a>
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=000000">
     </a>
     <a href="https://parade358.github.io" target="_blank">
