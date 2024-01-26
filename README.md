@@ -11,22 +11,14 @@
  
 <br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://parade358.github.io">
-        <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
-    </a>
-</div><br>
-
 ## 😃 Contact 😃
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:parade358@naver.com">
-      <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/yxsxxng">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+    [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://bit.ly/parade358)
+    [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://parade358.github.io)
+    [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:parade358@naver.com)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yxsxxng)
 </div><br>
+
     
 ## ✍️ Technology Stack ✍️
 
