@@ -28,7 +28,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 🔨 Technology Stack 🔨
 
 ### Frontend
 <div>
