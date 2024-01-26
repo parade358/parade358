@@ -5,7 +5,7 @@
 
 -------
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparade358&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparade358&count_bg=%23608CBA&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![parade358's GitHub stats](https://github-readme-stats.vercel.app/api?username=parade358&include_all_commits=true&show_icons=true&theme=shadow_blue)](https://github.com/parade358/github-readme-stats)
  
@@ -16,8 +16,6 @@
     <a href="https://parade358.github.io">
         <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
-
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=parade358)](https://github.com/bi-sz/velog-readme-stats)
 </div><br>
 
 ## 📞 Contact 📞
