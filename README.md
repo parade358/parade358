@@ -18,7 +18,7 @@
     </a>
 </div><br>
 
-## 📞 Contact 📞
+## 😃 Contact 😃
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:parade358@naver.com">
       <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
@@ -28,7 +28,7 @@
     </a>
 </div><br>
     
-## 🔨 Technology Stack 🔨
+## ✍️ Technology Stack ✍️
 
 ### Frontend
 <div>
