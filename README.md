@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kevin's+GitHub!👋)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alkatra&color=6994CDEE&size=45&vCenter=true&width=1000&height=100&lines=Welcome+to+Kevin's+GitHub!👋)](https://git.io/typing-svg)
+
 <div align="left">
 
 -------
@@ -14,8 +14,7 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://parade358.github.io">
-        <img src="https://img.shields.io/badge/
-        GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+        <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://parade358.github.io/)
 </div><br>
@@ -26,7 +25,7 @@
       <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
     
-    <a href="https://www.instagram.com/yxsxxng">
+    <a href="https://www.instagram.com/yxsxxng">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
@@ -65,7 +64,9 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
 </div>
+
 
 ### Development Tools
 <div>
