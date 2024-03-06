@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> 
     <img src="https://img.shields.io/badge/Ajax-6DB33F?style=for-the-badge&logo=Ajax&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=Material-UI&logoColor=white">
 </div>
 
 ### Backend
@@ -52,6 +53,7 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white">
     <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
+    <img src="https://img.shields.io/badge/SSMS-007ACC?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
 </div>
 
 ### Server
