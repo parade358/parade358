@@ -48,16 +48,12 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 </div>
 
-### Database
+### Database & Server
 <div>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white">
     <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
     <img src="https://img.shields.io/badge/SSMS-007ACC?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
-</div>
-
-### Server
-<div>
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black">
     <img src="https://img.shields.io/badge/IIS-5E5E5E?style=for-the-badge&logo=MicrosoftIIS&logoColor=white">
 </div>
@@ -69,17 +65,12 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div>
 
-
-### Development Tools
+### Development Tools & Version Control
 <div>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse%20STS-6DB33F?style=for-the-badge&logo=Eclipse&logoColor=white"> 
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
-</div>
-
-### Version Control
-<div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
 </div>
